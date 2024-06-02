@@ -185,7 +185,7 @@ https://www.tooplate.com/view/2120-ben-resume
   }
 
   .navbar.scroll {
-    background: var(--menu-bg-color);
+    background: red;
     padding: 0.5rem 1rem;
     position: fixed;
     opacity: 1;
@@ -215,16 +215,16 @@ https://www.tooplate.com/view/2120-ben-resume
 
   .nav-item .nav-link.active, 
   .nav-item .nav-link:hover {
-    color: var(--gray-color);
+    color: white;
   }
 
   .nav-item .nav-link.active, 
   .nav-item .nav-link:hover {
-    border-bottom-color: var(--primary-color);
+    border-bottom-color: white;
   }
 
   .nav-link {
-    color: var(--gray-color);
+    color: white;
     font-weight: var(--font-weight-light);
     font-size: var(--base-font-size);
     border-bottom: 1px solid transparent;
